@@ -1,0 +1,19 @@
+[30;1m2023-03-14 23:48:15[0m [34;1mINFO    [0m [35msrc.bot[0m -> Send starting prompt with size 11
+[30;1m2023-03-14 23:48:16[0m [31mERROR   [0m [35msrc.bot[0m -> Error while sending starting prompt: 'NoneType' object has no attribute 'send'
+[31mTraceback (most recent call last):
+  File "C:\Users\dower\OneDrive\__DISCORD_APP\_____GPT2_____\__chatGPT__reduex\src\bot.py", line 112, in send_start_prompt
+    await channel.send(response)
+AttributeError: 'NoneType' object has no attribute 'send'[0m
+[30;1m2023-03-14 23:48:22[0m [34;1mINFO    [0m [35msrc.bot[0m -> Send starting prompt with size 11
+[30;1m2023-03-14 23:48:24[0m [31mERROR   [0m [35msrc.bot[0m -> Error while sending starting prompt: 'NoneType' object has no attribute 'send'
+[31mTraceback (most recent call last):
+  File "C:\Users\dower\OneDrive\__DISCORD_APP\_____GPT2_____\__chatGPT__reduex\src\bot.py", line 112, in send_start_prompt
+    await channel.send(response)
+AttributeError: 'NoneType' object has no attribute 'send'[0m
+[30;1m2023-03-14 23:49:15[0m [34;1mINFO    [0m [35msrc.bot[0m -> Send starting prompt with size 11
+[30;1m2023-03-14 23:49:23[0m [31mERROR   [0m [35msrc.bot[0m -> Error while sending starting prompt: 'NoneType' object has no attribute 'send'
+[31mTraceback (most recent call last):
+  File "C:\Users\dower\OneDrive\__DISCORD_APP\_____GPT2_____\__chatGPT__reduex\src\bot.py", line 112, in send_start_prompt
+    await channel.send(response)
+AttributeError: 'NoneType' object has no attribute 'send'[0m
+[30;1m2023-03-14 23:49:23[0m [34;1mINFO    [0m [35msrc.bot[0m -> ChatGBT_Bot#6985 is now running!
